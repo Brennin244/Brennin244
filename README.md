@@ -17,8 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Brennin244&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brennin244&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <div style="display: inline_block"><br>
